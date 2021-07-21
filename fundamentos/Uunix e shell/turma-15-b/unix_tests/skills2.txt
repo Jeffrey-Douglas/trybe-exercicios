@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Java
+C++
+C#
+Arroz
+Batata
