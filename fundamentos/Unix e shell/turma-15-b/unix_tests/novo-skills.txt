@@ -6,4 +6,5 @@ C++
 C#
 Arroz
 Batata
+Javascript
 DOM
